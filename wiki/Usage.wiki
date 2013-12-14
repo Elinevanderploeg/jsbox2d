@@ -1,0 +1,5 @@
+#summary Quick info on how to use JSBox2D
+
+Download the [https://code.google.com/p/jsbox2d/ latest release] and script tag it in your HTML. Once the necessary includes are there, you may use Box2D extremely similar to how you use it in C++.
+
+I'd recommend that you view the samples in the [https://code.google.com/p/jsbox2d/source/browse/#svn%2Ftrunk TestBed] (all Test----.js files) to see how to use specific features. I'd also recommend you check out [http://box2d.org/documentation.html Box2D's documentation] as it is the exact same codebase, just translated to JS.

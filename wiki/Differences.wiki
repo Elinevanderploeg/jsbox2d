@@ -1,9 +1,5 @@
 #summary JSBox2D is designed to parity the C++ version as closely as possible. That isn't always possible, so here's a list of things that aren't the same.
 
-= Introduction =
-
-JSBox2D is designed to parity the C++ version as closely as possible. That isn't always possible, so here's a list of things that aren't the same.
-
 = Internal =
 
 The changed internal aspects are not as important, but basically they consist of most of the changes below as well as some minor changes that probably won't affect your code.

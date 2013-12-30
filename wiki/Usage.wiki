@@ -23,4 +23,4 @@ var world = new b2World(new b2Vec2(0, -10));
 </script>
 }}}
 
-I'd recommend that you view the samples in the [https://code.google.com/p/jsbox2d/source/browse/#svn%2Ftrunk TestBed] (all Test----.js files) to see how to use specific features. I'd also recommend you check out [http://box2d.org/documentation.html Box2D's documentation] as it is the exact same codebase, just translated to 
+I'd recommend that you view the samples in the [https://code.google.com/p/jsbox2d/source/browse/#svn%2Ftrunk TestBed] (all Test----.js files) to see how to use specific features. I'd also recommend you check out [http://box2d.org/documentation.html Box2D's documentation] as it is the exact same codebase.
